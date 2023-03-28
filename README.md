@@ -1,3 +1,4 @@
 # MySql
-SQL sorguları ile yaptığım çalışmalar.
-Üniversite Bilgi Sistemi Vıew, Stored Procedure, Table ve Scalar Fonksiyon Sorguları.
+SQL SORGULARI ÇALIŞMALARI
+PROJE ÖDEVİ
+ÜNİVERSİTE BİLGİ SİSTEMİ VIEW, STORED PROCEDURE, TABLE ve SCALAR FONKSİYON SORGULARI
